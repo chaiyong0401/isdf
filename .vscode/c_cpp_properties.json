@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/dyros/mcy_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/dyros/catkin_ws/devel/include/**",
+        "/home/dyros/catkin_ws/src/Azure_Kinect_ROS_Driver/include/**",
+        "/home/dyros/mcy_ws/src/franka_ros/franka_control/include/**",
+        "/home/dyros/mcy_ws/src/franka_ros/franka_example_controllers/include/**",
+        "/home/dyros/mcy_ws/src/franka_ros/franka_gazebo/include/**",
+        "/home/dyros/mcy_ws/src/franka_ros/franka_gripper/include/**",
+        "/home/dyros/mcy_ws/src/franka_ros/franka_hw/include/**",
+        "/home/dyros/catkin_ws/src/gazebo_ros_link_attacher/include/**",
+        "/home/dyros/mcy_ws/src/gl_depth_sim/gl_depth_sim/include/**",
+        "/home/dyros/catkin_ws/src/robotiq/robotiq_2f_gripper_action_server/include/**",
+        "/home/dyros/catkin_ws/src/robotiq/robotiq_2f_gripper_control/include/**",
+        "/home/dyros/catkin_ws/src/robotiq/robotiq_3f_gripper_articulated_gazebo_plugins/include/**",
+        "/home/dyros/catkin_ws/src/robotiq/robotiq_3f_gripper_control/include/**",
+        "/home/dyros/catkin_ws/src/robotiq/robotiq_ethercat/include/**",
+        "/home/dyros/catkin_ws/src/robotiq/robotiq_ft_sensor/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
